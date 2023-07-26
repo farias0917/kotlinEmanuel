@@ -1,6 +1,6 @@
-package com.farias0917.kotlin2687365
+package com.farias0917.kotlin2687365.ejercicios
 
-class ciclos {
+class Ciclos {
 }
 
 fun main(){

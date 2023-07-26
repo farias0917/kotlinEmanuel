@@ -1,6 +1,6 @@
 package com.farias0917.kotlin2687365
 
-class nequi {
+class Nequi {
 }
 var user:Long=3133442656
 var sendUser1:Long=3142656767
@@ -142,3 +142,4 @@ fun main() {
 
 
 }
+

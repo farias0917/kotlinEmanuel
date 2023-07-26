@@ -1,6 +1,6 @@
-package com.farias0917.myapp2687365
+package com.farias0917.kotlin2687365.ejercicios
 
-class condicionales {
+class Condicionales {
 }
 
 fun main(){

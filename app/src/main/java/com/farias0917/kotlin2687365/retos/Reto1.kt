@@ -1,6 +1,6 @@
-package com.farias0917.kotlin2687365
+package com.farias0917.kotlin2687365.retos
 
-class reto {
+class Reto1 {
 }
 
 fun main(){

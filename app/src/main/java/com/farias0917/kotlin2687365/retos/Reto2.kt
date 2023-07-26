@@ -1,6 +1,6 @@
-package com.farias0917.kotlin2687365
+package com.farias0917.kotlin2687365.retos
 
-class reto2 {
+class Reto2 {
 }
 
 fun main(){
@@ -12,10 +12,10 @@ fun main(){
     var acu:Int = 0
     while (op == "si"){
         print("Ingrese precio del producto: ")
-            precioProd = readLine()!!.toInt()
+        precioProd = readLine()!!.toInt()
 
         print("Ingrese cantidad del producto: ")
-            cantidadProd = readLine()!!.toInt()
+        cantidadProd = readLine()!!.toInt()
 
         totalPagar += precioProd*cantidadProd
 

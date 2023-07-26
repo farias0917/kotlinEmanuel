@@ -1,7 +1,8 @@
-package com.farias0917.myapp2687365
+package com.farias0917.kotlin2687365.ejercicios
 
-class introduccion {
+class Introduccion {
 }
+
 fun main() {
     var name: String = "Emanuel"
     var long: Long = 1222222222222222233
@@ -26,5 +27,3 @@ fun main() {
 
     var valornulo: Int? = null
 }
-
-
